@@ -1,4 +1,4 @@
-! Title: Newsite Blocklist for Startpage
+! Title: US Newsite Blocklist for Startpage
 
 startpage.com###main div.result a[href*="10nbc.com"]:upward(.result)
 startpage.com###main div.image-container .image-quick-details > span:has(a[href*="10nbc.com"]):upward(.image-container)
