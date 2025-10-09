@@ -1,4 +1,4 @@
-! Title: Newsite Blocklist for DuckDuckGo and Bing
+! Title: US Newsite Blocklist for DuckDuckGo and Bing
 
 duckduckgo.com,bing.com##a[href*="10nbc.com"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="10news.com"]:upward(li):remove()
