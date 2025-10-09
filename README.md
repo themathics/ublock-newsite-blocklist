@@ -1,4 +1,5 @@
 # uBlock Origin Newsite Blocklist
+## There are still some issues with this blocklist, the version for Google works best, the Duckduckgo and Bing work the worst!
 This blocklist is used to block most US newsites from search results using uBlock Origin. The list is generated from the list provided by https://github.com/ercexpo/us-news-domains.
 
 To import, select a file for your browser of choice, view as raw, and import at the bottom of uBlock Origin's "Filter List" page in settings.
