@@ -1,1 +1,3 @@
-ublock-distractions.txt linguist-language=AdBlock linguist-detectable
+duckduckgo_bing_us_news_blocklist.txt linguist-language=AdBlock linguist-detectable
+google_us_news_blocklist.txt linguist-language=AdBlock linguist-detectable
+startpage_us_news_blocklist.txt linguist-language=AdBlock linguist-detectable
